@@ -1,26 +1,7 @@
-#######################################################
-##    DEU UM TRABALHO DO CACETE PARA FAZER A LISTA.  ##
-## SE FOR REPASSAR DEIXE OS DEVIDOS CREDITOS A LHMTV.##
-##       VOCÊ PODE OLHAR E ESPELHAR O CONTEÚDO.      ##
-## NÃO AUTORIZO RECEBER LUCROS EM CIMA DESSES LINKS. ##
-## SE VER PARTE DESSE CONTEÚDO EM LISTA PAGA AVISE!  ##
-##  OBSERVACAO: LINKS SÂO ALTERADOS CONSTANTEMENTE.  ##
-##     GOSTOU, CONTRIBUA! SIMPLES. NÂO SÓ COPIE!     ##
-#######################################################
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/aviso.png" group-title="LHMTv" ,AVISO LEGAL
 http://stream.lhmtv.cf/vod/lhmtvaviso.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/lista.png" group-title="LHMTv" ,LISTA VIP
-http://stream.lhmtv.cf/vod/lhmtvcanais.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/mkt.png" group-title="LHMTv" ,Marketing
-http://stream.lhmtv.cf/mkt/djjotta.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/fb.png" group-title="LHMTv" ,FB.COM/LHMTv
 http://0.0.0.0
-
-##########################################################################################################################
-## LISTA LHMTv. NÃO SEJA BABACA, COPIOU E REPASSOU. DEIXE OS DEVIDOS CREDITOS! ACESSE WWW.LHMTV.NET - O MELHOR DO IPTV! ##
-##########################################################################################################################
 
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,1917 LEG
 http://topvod.tk/LHMTvPlay/1917?LHMTv
