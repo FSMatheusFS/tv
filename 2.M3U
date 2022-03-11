@@ -1,857 +1,1252 @@
-#EXTM3U
-#EXTINF:-1,BBB-19**
-http://fonte.iptvmaishd.com:25461/4791/4791/137031
-#EXTINF:-1,BBB-19*HD
-http://fonte.iptvmaishd.com:25461/4791/4791/137032
-#EXTINF:-1,BR: BAND CAMPINAS HD
-http://fonte.iptvmaishd.com:25461/4791/4791/153893
-#EXTINF:-1,BR: GOSPEL CARTOON
-http://fonte.iptvmaishd.com:25461/4791/4791/153886
-
-#EXTINF:-1,REDE EVANGELIZAR =
-http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8?LISTASDAGLAU
-#EXTINF:-1,BR: CANCAO NOVA
-http://fonte.iptvmaishd.com:25461/4791/4791/154788
-
-#EXTINF:-1,SBT GO HD =
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1285729810_b796000.m3u8
-#EXTINF:-1,SBT GO SD =
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
-#EXTINF:-1,SBT MA =
-http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
-#EXTINF:-1,SBT PE HD =
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
-#EXTINF:-1,SBT PE SD =
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1,TERRA VIVA =
-http://evpp.mm.uol.com.br:1935/band/terraviva/chunklist_w1724458897.m3u8
-#EXTINF:-1,TV ACRITICA - RECORD AM =
-https://slbps-sambatech.akamaized.net/live/3256,7930,679f501d2054fc8514ea1fc28fe5f167;base64np;S52I5Up2XHDMC-c!/amlst:S51w_Fc9WXHTS2s2/chunklist_b2146304.m3u8
-#EXTINF:-1,TV CULTURA MG =
-http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
-#EXTINF:-1,TV CULTURA PA =
-http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
-#EXTINF:-1,TV DIARIO =
-http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
-#EXTINF:-1,TV UP HD =
-http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
-#EXTINF:-1,TVE BRASIL =
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-
-#EXTINF:-1,BR:GLOBO BAHIA SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141878
-#EXTINF:-1,BR:Globo Brasilia SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141879
-#EXTINF:-1,BR:Globo EPTV Campinas SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141877
-#EXTINF:-1,BR:Globo EPTV Ribeirao Preto SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141871
-#EXTINF:-1,BR:Globo Goiania sd.
-http://fonte.iptvmaishd.com:25461/4791/4791/141870
-#EXTINF:-1,BR:Globo MG HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141886
-#EXTINF:-1,BR:Globo MG SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141887
-#EXTINF:-1,BR:Globo News HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141884
-#EXTINF:-1,BR:Globo News SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141885
-#EXTINF:-1,BR:Globo Nordeste HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141881
-#EXTINF:-1,BR:Globo Nordeste SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141882
-#EXTINF:-1,BR:Globo Paraná HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141876
-#EXTINF:-1,BR:Globo RJ HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141889
-#EXTINF:-1,BR:Globo RJ SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141890
-#EXTINF:-1,BR:GLOBO RPC SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141888
-#EXTINF:-1,BR:GLOBO SAO JOSE DO RIO PRETO SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141869
-#EXTINF:-1,BR:Globo SP HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141892
-#EXTINF:-1,BR:Globo SP SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141893
-#EXTINF:-1,BR:Globo TV Liberal SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141875
-#EXTINF:-1,BR:GLOBO INTER TV DOS VALES HD
-http://fonte.iptvmaishd.com:25461/4791/4791/141874
-#EXTINF:-1,BR:Globosat HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141872
-#EXTINF:-1,BR:Globosat SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141873
-#EXTINF:-1,BR: A&E SD
-http://fonte.iptvmaishd.com:25461/4791/4791/141994
-#EXTINF:-1,BR: TLC HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141742
-#EXTINF:-1,BR:A&E HD
-http://fonte.iptvmaishd.com:25461/4791/4791/141993
-#EXTINF:-1,BR:AMC HD
-http://fonte.iptvmaishd.com:25461/4791/4791/141987
-#EXTINF:-1,BR:AMC SD
-http://fonte.iptvmaishd.com:25461/4791/4791/141988
-#EXTINF:-1,BR:Animal Planet HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141990
-#EXTINF:-1,BR:Animal Planet SD
-http://fonte.iptvmaishd.com:25461/4791/4791/141991
-#EXTINF:-1,BR:Arte SD
-http://fonte.iptvmaishd.com:25461/4791/4791/141982
-#EXTINF:-1,BR:Arte1 HD
-http://fonte.iptvmaishd.com:25461/4791/4791/141981
-#EXTINF:-1,BR:AXN HD
-http://fonte.iptvmaishd.com:25461/4791/4791/141984
-#EXTINF:-1,BR:AXN SD
-http://fonte.iptvmaishd.com:25461/4791/4791/141985
-#EXTINF:-1,BR:Baby TV HD
-http://fonte.iptvmaishd.com:25461/4791/4791/141978
-#EXTINF:-1,BR:Baby TV SD
-http://fonte.iptvmaishd.com:25461/4791/4791/141979
-#EXTINF:-1,BR:Band News HD
-http://fonte.iptvmaishd.com:25461/4791/4791/141968
-#EXTINF:-1,BR:Band News SD
-http://fonte.iptvmaishd.com:25461/4791/4791/141969
-#EXTINF:-1,BR:Band SP HD
-http://fonte.iptvmaishd.com:25461/4791/4791/141972
-#EXTINF:-1,BR:BAND SP SD
-http://fonte.iptvmaishd.com:25461/4791/4791/141973
-#EXTINF:-1,BR:BAND SPORTS HD
-http://fonte.iptvmaishd.com:25461/4791/4791/141966
-#EXTINF:-1,BR:Band Sports SD
-http://fonte.iptvmaishd.com:25461/4791/4791/141967
-#EXTINF:-1,BR:BIS HD
-http://fonte.iptvmaishd.com:25461/4791/4791/141977
-#EXTINF:-1,BR:BIS SD
-http://fonte.iptvmaishd.com:25461/4791/4791/141980
-#EXTINF:-1,BR:Boomerang HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141963
-#EXTINF:-1,BR:Boomerang SD
-http://fonte.iptvmaishd.com:25461/4791/4791/141964
-#EXTINF:-1,BR:Canal Sony HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141961
-#EXTINF:-1,BR:Canal Sony SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141962
-#EXTINF:-1,BR:Cartoon Network HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141956
-#EXTINF:-1,BR:Cartoon Network SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141957
-#EXTINF:-1,BR:Cinemax HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141958
-#EXTINF:-1,BR:Cinemax SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141959
-#EXTINF:-1,BR:Combate HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141953
-#EXTINF:-1,BR:Combate SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141954
-#EXTINF:-1,BR:Comedy Central HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141950
-#EXTINF:-1,BR:Comedy Central SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141951
-#EXTINF:-1,BR:Discovery Channel HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141947
-#EXTINF:-1,BR:Discovery Channel SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141948
-#EXTINF:-1,BR:Discovery Civilization HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141944
-#EXTINF:-1,BR:Discovery Civilization SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141945
-#EXTINF:-1,BR:Discovery H&H HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141942
-#EXTINF:-1,BR:Discovery H&H SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141943
-#EXTINF:-1,BR:DISCOVERY KIDS HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141940
-#EXTINF:-1,BR:Discovery Kids SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141941
-#EXTINF:-1,BR:DISCOVERY SCIENCE HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141939
-#EXTINF:-1,BR:Discovery Science SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141938
-#EXTINF:-1,BR:Discovery Theater HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141937
-#EXTINF:-1,BR:Discovery Turbo HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141933
-#EXTINF:-1,BR:Discovery Turbo SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141934
-#EXTINF:-1,BR:Discovery World HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141935
-#EXTINF:-1,BR:Discovery World SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141936
-#EXTINF:-1,BR:Disney Channel HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141926
-#EXTINF:-1,BR:Disney Channel SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141927
-#EXTINF:-1,BR:Disney Junior HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141924
-#EXTINF:-1,BR:Disney Junior SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141925
-#EXTINF:-1,BR:Disney XD HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141922
-#EXTINF:-1,BR:E! HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141920
-#EXTINF:-1,BR:E! SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141921
-#EXTINF:-1,BR:ESPN + HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141918
-#EXTINF:-1,BR:ESPN 2 HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141913
-#EXTINF:-1,BR:ESPN Brasil HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141915
-#EXTINF:-1,BR:ESPN Brasil SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141916
-#EXTINF:-1,BR:ESPN SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141919
-#EXTINF:-1,BR:Food Network SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141910
-#EXTINF:-1,BR:FOX HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141907
-#EXTINF:-1,BR:FOX LIFE HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141904
-#EXTINF:-1,BR:FOX LIFE SD*
-http://fonte.iptvmaishd.com:25461/4791/4791/141905
-#EXTINF:-1,BR:Fox Premium 1 HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141903
-#EXTINF:-1,BR:Fox Premium 2 HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141901
-#EXTINF:-1,BR:FOX SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141908
-#EXTINF:-1,BR:Fox Sports 2 HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141895
-#EXTINF:-1,BR:Fox Sports 2 SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141896
-#EXTINF:-1,BR:Fox Sports HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141898
-#EXTINF:-1,BR:Fox Sports SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141899
-#EXTINF:-1,BR:FX HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141866
-#EXTINF:-1,BR:FX SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141867
-#EXTINF:-1,BR:Gloob HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141864
-#EXTINF:-1,BR:Gloob SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141865
-#EXTINF:-1,BR:GNT HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141861
-#EXTINF:-1,BR:GNT SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141862
-#EXTINF:-1,BR:H2 HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141859
-#EXTINF:-1,BR:H2 SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141860
-#EXTINF:-1,BR:HBO 2 HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141854
-#EXTINF:-1,BR:HBO 2 SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141855
-#EXTINF:-1,BR:HBO Family HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141852
-#EXTINF:-1,BR:HBO Family SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141853
-#EXTINF:-1,BR:HBO HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141856
-#EXTINF:-1,BR:HBO Plus HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141848
-#EXTINF:-1,BR:HBO Plus SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141849
-#EXTINF:-1,BR:HBO Plus*e HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141850
-#EXTINF:-1,BR:HBO Plus*e SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141851
-#EXTINF:-1,BR:HBO SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141857
-#EXTINF:-1,BR:HBO Signature HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141846
-#EXTINF:-1,BR:HBO Signature SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141847
-#EXTINF:-1,BR:History Channel HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141843
-#EXTINF:-1,BR:History Channel SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141844
-#EXTINF:-1,BR:Investigação Discovery HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141930
-#EXTINF:-1,BR:Investigação Discovery SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141931
-#EXTINF:-1,BR:Lifetime HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141840
-#EXTINF:-1,BR:Lifetime SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141841
-#EXTINF:-1,BR:Max HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141838
-#EXTINF:-1,BR:Max Prime HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141836
-#EXTINF:-1,BR:Max Prime SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141837
-#EXTINF:-1,BR:Max Prime*e SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141835
-#EXTINF:-1,BR:Max SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141839
-#EXTINF:-1,BR:Max Up SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141831
-#EXTINF:-1,BR:MEGA PIX HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141833
-#EXTINF:-1,BR:MEGA PIX SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141834
-#EXTINF:-1,BR:MTV HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141828
-#EXTINF:-1,BR:MTV SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141829
-#EXTINF:-1,BR:Multishow HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141825
-#EXTINF:-1,BR:Multishow SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141826
-#EXTINF:-1,BR:NatGeo Kids HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141928
-#EXTINF:-1,BR:NatGeo Kids SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141929
-#EXTINF:-1,BR:NatGeo Wild HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141823
-#EXTINF:-1,BR:NatGeo Wild SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141824
-#EXTINF:-1,BR:National Geographic HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141821
-#EXTINF:-1,BR:National Geographic SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141822
-#EXTINF:-1,BR:Nick Jr HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141819
-#EXTINF:-1,BR:Nick Jr SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141820
-#EXTINF:-1,BR:Nickelodeon HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141817
-#EXTINF:-1,BR:Nickelodeon SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141818
-#EXTINF:-1,BR:OFF HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141815
-#EXTINF:-1,BR:OFF SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141816
-#EXTINF:-1,BR:Paramount HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141795
-#EXTINF:-1,BR:Paramount SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141796
-#EXTINF:-1,BR:Premiere 2 HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141810
-#EXTINF:-1,BR:Premiere 2 SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141811
-#EXTINF:-1,BR:Premiere 3 HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141808
-#EXTINF:-1,BR:Premiere 3 SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141809
-#EXTINF:-1,BR:PREMIERE 4 HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141806
-#EXTINF:-1,BR:Premiere 5 HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141803
-#EXTINF:-1,BR:Premiere 5 SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141804
-#EXTINF:-1,BR:Premiere 6 HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141800
-#EXTINF:-1,BR:Premiere 6 SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141801
-#EXTINF:-1,BR:Premiere 7 HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141797
-#EXTINF:-1,BR:Premiere 7 SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141798
-#EXTINF:-1,BR:Premiere Clubes HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141813
-#EXTINF:-1,BR:Premiere CLUBES SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141814
-#EXTINF:-1,BR:Prime box brasil sd.
-http://fonte.iptvmaishd.com:25461/4791/4791/141717
-#EXTINF:-1,BR:Record Campinas HD
-http://fonte.iptvmaishd.com:25461/4791/4791/141791
-#EXTINF:-1,BR:Record News HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141789
-#EXTINF:-1,BR:Record News SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141790
-#EXTINF:-1,BR:Record SP HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141792
-#EXTINF:-1,BR:Record SP SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141793
-#EXTINF:-1,BR:Rede TV HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141788
-#EXTINF:-1,BR:SBT HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141774
-#EXTINF:-1,BR:SBT Nordeste HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141772
-#EXTINF:-1,BR:SBT SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141775
-#EXTINF:-1,BR:Space HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141777
-#EXTINF:-1,BR:Space SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141778
-#EXTINF:-1,BR:SporTV 2 HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141783
-#EXTINF:-1,BR:SporTV 2 SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141784
-#EXTINF:-1,BR:SPORTV 3 HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141780
-#EXTINF:-1,BR:SporTV 3 SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141781
-#EXTINF:-1,BR:SPORTV HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141786
-#EXTINF:-1,BR:SporTV SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141787
-#EXTINF:-1,BR:Studio Universal HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141768
-#EXTINF:-1,BR:Studio Universal SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141769
-#EXTINF:-1,BR:SyFy HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141766
-#EXTINF:-1,BR:SyFy SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141767
-#EXTINF:-1,BR:TBS HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141764
-#EXTINF:-1,BR:TBS SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141765
-#EXTINF:-1,BR:TCM HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141744
-#EXTINF:-1,BR:TCM SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141745
-#EXTINF:-1,BR:Telecine Action HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141762
-#EXTINF:-1,BR:Telecine Action SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141763
-#EXTINF:-1,BR:Telecine Cult HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141759
-#EXTINF:-1,BR:Telecine Cult SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141760
-#EXTINF:-1,BR:telecine Fun HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141756
-#EXTINF:-1,BR:Telecine Fun SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141757
-#EXTINF:-1,BR:Telecine Pipoca HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141753
-#EXTINF:-1,BR:Telecine Pipoca SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141754
-#EXTINF:-1,BR:Telecine Premium SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141751
-#EXTINF:-1,BR:Telecine Touch hd.
-http://fonte.iptvmaishd.com:25461/4791/4791/141747
-#EXTINF:-1,BR:Telecine Touch sd.
-http://fonte.iptvmaishd.com:25461/4791/4791/141748
-#EXTINF:-1,BR:TLC SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141743
-#EXTINF:-1,BR:TNT HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141740
-#EXTINF:-1,BR:TNT SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141741
-#EXTINF:-1,BR:TNT Séries HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141737
-#EXTINF:-1,BR:TNT Séries SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141738
-#EXTINF:-1,BR:Tooncast HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141734
-#EXTINF:-1,BR:Tooncast SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141735
-#EXTINF:-1,BR:TV Aparecida HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141732
-#EXTINF:-1,BR:TV Cultura HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141730
-#EXTINF:-1,BR:TV Cultura SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141731
-#EXTINF:-1,BR:Universal Channel HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141728
-#EXTINF:-1,BR:Universal Channel SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141729
-#EXTINF:-1,BR:VH1 megahits SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141726
-#EXTINF:-1,BR:VH1 HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141725
-#EXTINF:-1,BR:VIVA HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141723
-#EXTINF:-1,BR:VIVA SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141724
-#EXTINF:-1,BR:Warner Channel HD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141720
-#EXTINF:-1,BR:Warner Channel SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141721
-#EXTINF:-1,BR:Woohoo SD.
-http://fonte.iptvmaishd.com:25461/4791/4791/141718
-#EXTINF:-1,BR: A&E FHD
-http://fonte.iptvmaishd.com:25461/4791/4791/153748
-#EXTINF:-1,BR: AMC FHD
-http://fonte.iptvmaishd.com:25461/4791/4791/153727
-#EXTINF:-1,BR: AXN FHD
-http://fonte.iptvmaishd.com:25461/4791/4791/153747
-#EXTINF:-1,BR: Canal OFF FHD
-http://fonte.iptvmaishd.com:25461/4791/4791/153746
-#EXTINF:-1,BR: COMBATE FHD
-http://fonte.iptvmaishd.com:25461/4791/4791/153726
-#EXTINF:-1,BR: Discovery Kids HD
-http://fonte.iptvmaishd.com:25461/4791/4791/153745
-#EXTINF:-1,BR: Disney JR FHD
-http://fonte.iptvmaishd.com:25461/4791/4791/153744
-#EXTINF:-1,BR: Espn Brasil FHD
-http://fonte.iptvmaishd.com:25461/4791/4791/153743
-#EXTINF:-1,BR: Fox FHD
-http://fonte.iptvmaishd.com:25461/4791/4791/153741
-#EXTINF:-1,BR: FOX LIFE FHD
-http://fonte.iptvmaishd.com:25461/4791/4791/153725
-#EXTINF:-1,BR: Globo Nordeste FHD
-http://fonte.iptvmaishd.com:25461/4791/4791/153740
-#EXTINF:-1,BR: HBO FHD
-http://fonte.iptvmaishd.com:25461/4791/4791/153739
-#EXTINF:-1,BR: History FHD
-http://fonte.iptvmaishd.com:25461/4791/4791/153738
-#EXTINF:-1,BR: Multishow FHD
-http://fonte.iptvmaishd.com:25461/4791/4791/153737
-#EXTINF:-1,BR: Nat Geo FHD
-http://fonte.iptvmaishd.com:25461/4791/4791/153736
-#EXTINF:-1,BR: OFF FHD
-http://fonte.iptvmaishd.com:25461/4791/4791/153749
-#EXTINF:-1,BR: Premiere Clubes FHD
-http://fonte.iptvmaishd.com:25461/4791/4791/153734
-#EXTINF:-1,BR: RECORD FHD
-http://fonte.iptvmaishd.com:25461/4791/4791/153724
-#EXTINF:-1,BR: Record NORDESTE FHD
-http://fonte.iptvmaishd.com:25461/4791/4791/153733
-#EXTINF:-1,BR: SBT NORDESTE FHD
-http://fonte.iptvmaishd.com:25461/4791/4791/153732
-#EXTINF:-1,BR: Space FHD
-http://fonte.iptvmaishd.com:25461/4791/4791/153731
-#EXTINF:-1,BR: SporTV FHD
-http://fonte.iptvmaishd.com:25461/4791/4791/153730
-#EXTINF:-1,BR: Studio Universal FHD
-http://fonte.iptvmaishd.com:25461/4791/4791/153729
-#EXTINF:-1,BR: SyFy FHD
-http://fonte.iptvmaishd.com:25461/4791/4791/153728
-#EXTINF:-1,BR: TELECINE ACTION FHD
-http://fonte.iptvmaishd.com:25461/4791/4791/153723
-#EXTINF:-1,BR: TELECINE FUN FHD
-http://fonte.iptvmaishd.com:25461/4791/4791/153722
-#EXTINF:-1,BR: TELECINE PIPOCA FHD
-http://fonte.iptvmaishd.com:25461/4791/4791/153721
-#EXTINF:-1,BR: TELECINE PREMIUM FHD
-http://fonte.iptvmaishd.com:25461/4791/4791/153720
-#EXTINF:-1,BR: Globo Amazonas
-http://fonte.iptvmaishd.com:25461/4791/4791/154846
-#EXTINF:-1,BR: GLOBO RBS TV PORTO ALEGRE
-http://fonte.iptvmaishd.com:25461/4791/4791/154845
-#EXTINF:-1,BR: COPA NORDESTE 2019 | 1
-http://fonte.iptvmaishd.com:25461/4791/4791/162613
-#EXTINF:-1,BR: DAZN HD
-http://fonte.iptvmaishd.com:25461/4791/4791/162614
-#EXTINF:-1,BR: EI MAX Plus HD
-http://fonte.iptvmaishd.com:25461/4791/4791/162615
-#EXTINF:-1,Des. Arnold
-http://fonte.iptvmaishd.com:25461/4791/4791/162658
-#EXTINF:-1,Des. 3 Palavrinhas
-http://fonte.iptvmaishd.com:25461/4791/4791/162654
-#EXTINF:-1,Des. A Familia Addams
-http://fonte.iptvmaishd.com:25461/4791/4791/162655
-#EXTINF:-1,Des. A Formiga Atomica
-http://fonte.iptvmaishd.com:25461/4791/4791/162667
-#EXTINF:-1,Des. A Pantera Cor de Rosa
-http://fonte.iptvmaishd.com:25461/4791/4791/162666
-#EXTINF:-1,Des. A Pequena Sereia
-http://fonte.iptvmaishd.com:25461/4791/4791/162665
-#EXTINF:-1,Des. A Turma do Pernalonga
-http://fonte.iptvmaishd.com:25461/4791/4791/162664
-#EXTINF:-1,Des. A Vaca e o Frango
-http://fonte.iptvmaishd.com:25461/4791/4791/162663
-#EXTINF:-1,Des. Ah que Kiko! Kiko e sua Turma
-http://fonte.iptvmaishd.com:25461/4791/4791/162662
-#EXTINF:-1,Des. Aladdin
-http://fonte.iptvmaishd.com:25461/4791/4791/162661
-#EXTINF:-1,Des. Animaniacs
-http://fonte.iptvmaishd.com:25461/4791/4791/162659
-#EXTINF:-1,Des. As Visoes da Raven
-http://fonte.iptvmaishd.com:25461/4791/4791/162657
-#EXTINF:-1,Des. Batman e Robin
-http://fonte.iptvmaishd.com:25461/4791/4791/162656
-#EXTINF:-1,Des. Biblicos
-http://fonte.iptvmaishd.com:25461/4791/4791/162668
-#EXTINF:-1,Des. BiBo Pai e Bob Filho
-http://fonte.iptvmaishd.com:25461/4791/4791/162682
-#EXTINF:-1,Des. Bicudo o Lobisomem
-http://fonte.iptvmaishd.com:25461/4791/4791/162681
-#EXTINF:-1,Des. Bob Esponja
-http://fonte.iptvmaishd.com:25461/4791/4791/162680
-#EXTINF:-1,Des. Buzz Lightyear
-http://fonte.iptvmaishd.com:25461/4791/4791/162679
-#EXTINF:-1,Des. Capitao Caverna
-http://fonte.iptvmaishd.com:25461/4791/4791/162677
-#EXTINF:-1,Des. Castelo Ra Tim Bum
-http://fonte.iptvmaishd.com:25461/4791/4791/162676
-#EXTINF:-1,Des. Cavalo de fogo
-http://fonte.iptvmaishd.com:25461/4791/4791/162675
-#EXTINF:-1,Des. CHANGEMAN
-http://fonte.iptvmaishd.com:25461/4791/4791/162678
-#EXTINF:-1,Des. Chapolin
-http://fonte.iptvmaishd.com:25461/4791/4791/162674
-#EXTINF:-1,Des. Chaves
-http://fonte.iptvmaishd.com:25461/4791/4791/162673
-#EXTINF:-1,Des. Colecao Bob Zoom
-http://fonte.iptvmaishd.com:25461/4791/4791/162672
-#EXTINF:-1,Des. Coragem Cão Covarde
-http://fonte.iptvmaishd.com:25461/4791/4791/162671
-#EXTINF:-1,Des. Corrida Maluca
-http://fonte.iptvmaishd.com:25461/4791/4791/162670
-#EXTINF:-1,Des. De Volta Para o Futuro
-http://fonte.iptvmaishd.com:25461/4791/4791/162669
-#EXTINF:-1,Des. Dora a Aventureira
-http://fonte.iptvmaishd.com:25461/4791/4791/162689
-#EXTINF:-1,Des. Doug
-http://fonte.iptvmaishd.com:25461/4791/4791/162688
-#EXTINF:-1,Des. Dragon Ball GT 24
-http://fonte.iptvmaishd.com:25461/4791/4791/162698
-#EXTINF:-1,Des. Dragon Ball Super
-http://fonte.iptvmaishd.com:25461/4791/4791/162697
-#EXTINF:-1,Des. Dragon Ball Z - Saga de Majin Boo
-http://fonte.iptvmaishd.com:25461/4791/4791/162693
-#EXTINF:-1,Des. Dragon Ball Z - Saga de Cell
-http://fonte.iptvmaishd.com:25461/4791/4791/162696
-#EXTINF:-1,Des. Dragon Ball Z - Saga de Freeza
-http://fonte.iptvmaishd.com:25461/4791/4791/162695
-#EXTINF:-1,Des. Dragon Ball Z - Saga de Garlic Jr
-http://fonte.iptvmaishd.com:25461/4791/4791/162694
-#EXTINF:-1,Des. Dragon Ball Z - Saga dos Androide
-http://fonte.iptvmaishd.com:25461/4791/4791/162692
-#EXTINF:-1,Des. Dragon Ball Z - Saga dos Sayajins
-http://fonte.iptvmaishd.com:25461/4791/4791/162691
-#EXTINF:-1,Des. Du Dudu e Edu
-http://fonte.iptvmaishd.com:25461/4791/4791/162690
-#EXTINF:-1,Des. ETeimoso
-http://fonte.iptvmaishd.com:25461/4791/4791/162660
-#EXTINF:-1,Des. Eu a Patroa e as Crianças
-http://fonte.iptvmaishd.com:25461/4791/4791/162687
-#EXTINF:-1,Des. Familia Dinossauro
-http://fonte.iptvmaishd.com:25461/4791/4791/162715
-#EXTINF:-1,Des. Flashman
-http://fonte.iptvmaishd.com:25461/4791/4791/162686
-#EXTINF:-1,Des. Frankenstein Junior
-http://fonte.iptvmaishd.com:25461/4791/4791/162714
-#EXTINF:-1,Des. Galinha Pintadinha
-http://fonte.iptvmaishd.com:25461/4791/4791/162713
-#EXTINF:-1,Des. He-Man
-http://fonte.iptvmaishd.com:25461/4791/4791/162712
-#EXTINF:-1,Des. Jambo e Ruivao
-http://fonte.iptvmaishd.com:25461/4791/4791/162685
-#EXTINF:-1,Des. Jaspion
-http://fonte.iptvmaishd.com:25461/4791/4791/162711
-#EXTINF:-1,Des. Jiraya
-http://fonte.iptvmaishd.com:25461/4791/4791/162710
-#EXTINF:-1,Des. Jonny Quest
-http://fonte.iptvmaishd.com:25461/4791/4791/162709
-#EXTINF:-1,Des. Ligeirinho
-http://fonte.iptvmaishd.com:25461/4791/4791/162684
-#EXTINF:-1,Des. Luluzinha
-http://fonte.iptvmaishd.com:25461/4791/4791/162708
-#EXTINF:-1,Des. Masha e o urso
-http://fonte.iptvmaishd.com:25461/4791/4791/162706
-#EXTINF:-1,Des. Medabots
-http://fonte.iptvmaishd.com:25461/4791/4791/162705
-#EXTINF:-1,Des. Meu Amigo da Escola e um Macaco
-http://fonte.iptvmaishd.com:25461/4791/4791/162704
-#EXTINF:-1,Des. MOSQUITO E MOSCARDO
-http://fonte.iptvmaishd.com:25461/4791/4791/162707
-#EXTINF:-1,Des. Mr.Bean
-http://fonte.iptvmaishd.com:25461/4791/4791/162703
-#EXTINF:-1,Des. O Fantastico Mundo de Bobby
-http://fonte.iptvmaishd.com:25461/4791/4791/162702
-#EXTINF:-1,Des. O Inspetor
-http://fonte.iptvmaishd.com:25461/4791/4791/162701
-#EXTINF:-1,Des. O Maskara
-http://fonte.iptvmaishd.com:25461/4791/4791/162700
-#EXTINF:-1,Des. OS MELHORES DA HANNA
-http://fonte.iptvmaishd.com:25461/4791/4791/162718
-#EXTINF:-1,Des. Patrulha Canina
-http://fonte.iptvmaishd.com:25461/4791/4791/162738
-#EXTINF:-1,Des. Pernalonga
-http://fonte.iptvmaishd.com:25461/4791/4791/162737
-#EXTINF:-1,Des. Phineas e Ferb
-http://fonte.iptvmaishd.com:25461/4791/4791/162736
-#EXTINF:-1,Des. Pica-Pau
-http://fonte.iptvmaishd.com:25461/4791/4791/162735
-#EXTINF:-1,Des. Power Rangers Mighty Morphin
-http://fonte.iptvmaishd.com:25461/4791/4791/162734
-#EXTINF:-1,Des. Rick and morty
-http://fonte.iptvmaishd.com:25461/4791/4791/162733
-#EXTINF:-1,Des. Sabrina - Aprendiz de Feiticeira
-http://fonte.iptvmaishd.com:25461/4791/4791/162731
-#EXTINF:-1,Des. Samurai Jack
-http://fonte.iptvmaishd.com:25461/4791/4791/162730
-#EXTINF:-1,Des. SCOOBY DOO
-http://fonte.iptvmaishd.com:25461/4791/4791/162732
-#EXTINF:-1,Des. South Park
-http://fonte.iptvmaishd.com:25461/4791/4791/162729
-#EXTINF:-1,Des. Super Campeoes
-http://fonte.iptvmaishd.com:25461/4791/4791/162728
-#EXTINF:-1,Des. Titio Avo
-http://fonte.iptvmaishd.com:25461/4791/4791/162727
-#EXTINF:-1,Des. Todo Mundo Odeia o Chris
-http://fonte.iptvmaishd.com:25461/4791/4791/162726
-#EXTINF:-1,Des. Tom & Jerry
-http://fonte.iptvmaishd.com:25461/4791/4791/162725
-#EXTINF:-1,Des. Ultraman
-http://fonte.iptvmaishd.com:25461/4791/4791/162724
-#EXTINF:-1,Des. Um maluco no pedaco
-http://fonte.iptvmaishd.com:25461/4791/4791/162723
-#EXTINF:-1,Des. Uma Familia da Pesada
-http://fonte.iptvmaishd.com:25461/4791/4791/162722
-#EXTINF:-1,Des. Winspector
-http://fonte.iptvmaishd.com:25461/4791/4791/162721
-#EXTINF:-1,Des. X-Men Evolution
-http://fonte.iptvmaishd.com:25461/4791/4791/162720
-#EXTINF:-1,Des. Xena Princesa Guerreira
-http://fonte.iptvmaishd.com:25461/4791/4791/162719
-#EXTINF:-1,Des.Ben 10 Forca Alienigena
-http://fonte.iptvmaishd.com:25461/4791/4791/162683
-#EXTINF:-1,Des.O Show da Luna
-http://fonte.iptvmaishd.com:25461/4791/4791/162699
-#EXTINF:-1,A Caminho de Casa
-http://fonte.iptvmaishd.com:25461/movie/4791/4791/162622.mp4
-#EXTINF:-1,A Morte Te Dá Parabéns 2
-http://fonte.iptvmaishd.com:25461/movie/4791/4791/162616.mp4
-#EXTINF:-1,Aquaman
-http://fonte.iptvmaishd.com:25461/movie/4791/4791/162618.mp4
-#EXTINF:-1,Bumblebee
-http://fonte.iptvmaishd.com:25461/movie/4791/4791/162623.mp4
-#EXTINF:-1,Capitã Marvel
-http://fonte.iptvmaishd.com:25461/movie/4791/4791/162617.mp4
-#EXTINF:-1,Cinderela Pop
-http://fonte.iptvmaishd.com:25461/movie/4791/4791/162625.mp4
-#EXTINF:-1,Como Treinar o seu Dragão 3
-http://fonte.iptvmaishd.com:25461/movie/4791/4791/162630.mp4
-#EXTINF:-1,Dragon Ball Super: Broly
-http://fonte.iptvmaishd.com:25461/movie/4791/4791/162633.mp4
-#EXTINF:-1,DUMBO
-http://fonte.iptvmaishd.com:25461/movie/4791/4791/162636.mp4
-
-#EXTINF:-1,Show:Adilson Ramos
-http://94.23.215.56/filmes/SHOWS/Adilson%20Ramos%20-%20Show%20ao%20Vivo%20(Completo%20Oficial).mp4
-#EXTINF:-1,Show:Amado Batista
-http://94.23.215.56/filmes/SHOWS/Show%20Completo%20de%20Amado%20Batista%20Ao%20vivo%20na%20Vaquejada%20de%20Serrinha%202017%20HD.mp4
-#EXTINF:-1,Show:Amy Winehouse
-http://94.23.215.56/filmes/SHOWS/Amy%20Winehouse%20Live%20In%20London%202007%20FULL%20CONCERT%201080p%20%e1%b4%b4%e1%b4%b0%20HQ.mp4
-#EXTINF:-1,Show:Ana Paula Valadão
-http://94.23.215.56/filmes/SHOWS/Ana%20Paula%20Valad%c3%a3o%20Festival%20da%20Esperan%c3%a7a%20Lisboa,%20Portugal%2008-04-18%20Noite.mp4
-#EXTINF:-1,Show:Anderson Freire
-http://94.23.215.56/filmes/SHOWS/Anderson%20Freire%20-%20Ess%c3%aancia%20(DVD%20COMPLETO).mp4
-#EXTINF:-1,Show:Anitta
-http://94.23.215.56/filmes/SHOWS/ANITTA%20-%20PLANETA%20ATL%c3%82NTIDA%202019%20SHOW%20COMPLETO%20HD.mp4
-#EXTINF:-1,Show:ASA DE AGUIA
-http://fonte.iptvmaishd.com:25461/4791/4791/162566
-#EXTINF:-1,Show:Aviões do Forró
-http://94.23.215.56/filmes/SHOWS/DVD%20COMPLETO%20JULIANA%20BONDE%20DO%20FORR%c3%93%20-%20AO%20VIVO%20-%20SHOW%20QUE%20BALAN%c3%87OU%20MULTID%c3%95ES.mp4
-#EXTINF:-1,Show:Banda Djavu
-http://94.23.215.56/filmes/SHOWS/Banda%20Djavu%20&%20DJ%20Juninho%20Portugal%20-%20O%20Furac%c3%a3o%20%c3%a9%20Show!%20-%20Ao%20Vivo%20(DVD%20Completo).mp4
-#EXTINF:-1,Show:Barão Vermelho
-http://94.23.215.56/filmes/SHOWS/Show%20DVD%20Completo%20-%20Bar%c3%a3o%20Vermelho%20-%20MTV%20Ao%20Vivo%20(@Heitoor03).mp4
-#EXTINF:-1,Show:BEE GEES
-http://94.23.215.56/filmes/SHOWS/BEE%20GEES,%20show%20completo,%20ao%20vivo.mp4
-#EXTINF:-1,Show:Bon Jovi
-http://94.23.215.56/filmes/SHOWS/Bon%20Jovi%20-%20LiveStream%20from%20Cleveland%20-%20March%2009%202013%20Full%20show%20-%20Part1.mp4
-#EXTINF:-1,Show:Bruna Karla
-http://94.23.215.56/filmes/SHOWS/Bruna%20Karla%20DVD%20Completo%20Advogado%20fiel!!!.mp4
-#EXTINF:-1,Show:BRUNO E MARRONE
-http://fonte.iptvmaishd.com:25461/4791/4791/162548
-#EXTINF:-1,Show:Bruno Mars
-http://94.23.215.56/filmes/SHOWS/Bruno%20Mars%20Live%202018%20Full%20Concert%20Full%20HD.mp4
-#EXTINF:-1,Show:Charlie Brown
-http://94.23.215.56/filmes/SHOWS/Charlie%20Brown%20JR%20Ao%20vivo%20-%20Planeta%20Atl%c3%a2ntida%202012%20HD%20COMPLETO.mp4
-#EXTINF:-1,Show:Daniel
-http://94.23.215.56/filmes/SHOWS/DVD%20Ra%c3%adzes%20-%20DANIEL%20AO%20VIVO%20SHOW%20COMPLETO.mp4
-#EXTINF:-1,Show:DEVINHO NOVAES
-http://94.23.215.56/filmes/SHOWS/DEVINHO%20NOVAES%20AO%20VIVO%20NO%20FESTIVAL%20VIRADA%20SALVADOR%202019%20(SHOW%20COMPLETO).mp4
-#EXTINF:-1,Show:Eduardo Costa
-http://fonte.iptvmaishd.com:25461/4791/4791/162557
-#EXTINF:-1,Show:FERRUGEM
-http://94.23.215.56/filmes/SHOWS/FERRUGEM%20-%20AO%20VIVO%20NO%20RIO%20DE%20JANEIRO%20SHOW%20COMPLETO%20(18.08.2018).mp4
-#EXTINF:-1,Show:Gaab
-http://fonte.iptvmaishd.com:25461/4791/4791/162564
-#EXTINF:-1,Show:Gasparzinho
-http://94.23.215.56/filmes/SHOWS/Gasparzinho%20DVD%20Ao%20Vivo%20em%20Sa%cc%83o%20Paulo%202013%20SHOW%20COMPLETO%20%5bOFICIAL%5d.mp4
-#EXTINF:-1,Show:Geraldo
-http://94.23.215.56/filmes/SHOWS/Show%20Z%c3%a9%20Geraldo%20-%20Completo%20-%20Ao%20Vivo%20em%20Araras-SP.mp4
-#EXTINF:-1,Show:Gino e Geno
-http://94.23.215.56/filmes/SHOWS/Gino%20&%20Geno%20-%20Ao%20Vivo%20-%20Show%20Completo%20-%20HD%20-%20Oficial.mp4
-#EXTINF:-1,Show:Guns Roses
-http://94.23.215.56/filmes/SHOWS/Guns%20N'%20Roses%20En%20Vivo%20en%20el%20Ritz%201988%20(%20Show%20Completo).mp4
-#EXTINF:-1,Show:Gusttavo Lima
-http://fonte.iptvmaishd.com:25461/4791/4791/162550
-#EXTINF:-1,Show:Henrique e Juliano
-http://94.23.215.56/filmes/SHOWS/Henrique%20&%20Juliano%20no%20Planeta%20Atl%c3%a2ntida%202019.mp4
-#EXTINF:-1,Show:Jorge e Matheus
-http://94.23.215.56/filmes/SHOWS/Jorge%20&%20Mateus%20-%20Festival%20de%20Ver%c3%a3o%202018%20-%20Show%20Completo%20-%20HDTV%201080p.mp4
-#EXTINF:-1,Show:JULIANA BONDE DO FORRO
-http://fonte.iptvmaishd.com:25461/4791/4791/162567
-#EXTINF:-1,Show:LadyGaga
-http://94.23.215.56/filmes/SHOWS/FULL%20SHOW%20-%20Lady%20Gaga%20-%20Joanne%20World%20Tour%20DVD%20-%20Live%20in%20Vancouver.mp4
-#EXTINF:-1,Show:Léo Santana
-http://fonte.iptvmaishd.com:25461/4791/4791/162551
-#EXTINF:-1,Show:Leonardo
-http://94.23.215.56/filmes/SHOWS/Leonardo%20S%c3%a3o%20Jo%c3%a3o%20de%20Fortaleza%202018%20(SHOW%20COMPLETO).mp4
-#EXTINF:-1,Show:Limão com Mel
-http://fonte.iptvmaishd.com:25461/4791/4791/162572
-#EXTINF:-1,Show:Linkin Park
-http://94.23.215.56/filmes/SHOWS/Linkin%20Park%20ao%20vivo%20no%20Milton%20Keynes%20Bowl,%20Inglaterra%202008%20-%20%5bSHOW%20%c3%89PICO%20COMPLETO%20EM%20HD%5d.mp4
-#EXTINF:-1,Show:Luan Santana
-http://94.23.215.56/filmes/SHOWS/Luan%20Santana%20(Show%20completo)%20-%20Melhor%20Segunda-Feira%20do%20Mundo%20(29%2001%202018).mp4
-#EXTINF:-1,Show:Maiara e Maraisa
-http://94.23.215.56/filmes/SHOWS/MAIARA%20E%20MARA%c3%8dSA%20-%20FESTIVAL%20VIRADA%20SALVADOR%202019.mp4
-#EXTINF:-1,Show:Mamonas Assassinas
-http://94.23.215.56/filmes/SHOWS/Mamonas%20Assassinas%20-%20Show%20Ao%20vivo%20-%20Valinhos-SP.mp4
-#EXTINF:-1,Show:MARIA RITA
-http://94.23.215.56/filmes/SHOWS/MARIA%20RITA%20ao%20vivo%20-%20DVD%20Completo%20SAMBA%20MEU%20HD%20FULL%20Show.mp4
-#EXTINF:-1,Show:Marilia Mendonça
-http://94.23.215.56/filmes/SHOWS/Mar%c3%adlia%20Mendon%c3%a7a%20Caldas%20Country%202018%20(SHOW%20COMPLETO).mp4
-#EXTINF:-1,Show:Mato Grosso e Mathias
-http://94.23.215.56/filmes/SHOWS/DVD%20Mato%20grosso%20&%20Mathias%20Ao%20vivo%20convida.mp4
-#EXTINF:-1,Show:Mc Kevinho
-http://fonte.iptvmaishd.com:25461/4791/4791/162543
-#EXTINF:-1,Show:Michael Jackson
-http://94.23.215.56/filmes/SHOWS/Michael%20Jackson%20-%20HIStory%20Tour%20In%20Munich%20(ZDF%20HD)%20(Remastered).mp4
-#EXTINF:-1,Show:Natiruts
-http://94.23.215.56/filmes/SHOWS/Natiruts%20Ao%20Vivo%20no%20Planeta%20Atl%c3%a2ntida%202017%20Show%20Completo%20HD.mp4
-#EXTINF:-1,Show:NAYARA AZEVEDO
-http://fonte.iptvmaishd.com:25461/4791/4791/162571
-#EXTINF:-1,Show:Netinho
-http://fonte.iptvmaishd.com:25461/4791/4791/162579
-#EXTINF:-1,Show:Noda Caju
-http://fonte.iptvmaishd.com:25461/4791/4791/162570
-#EXTINF:-1,Show:Pablo
-http://fonte.iptvmaishd.com:25461/4791/4791/162576
-#EXTINF:-1,Show:Paula Fernandes
-http://fonte.iptvmaishd.com:25461/4791/4791/162568
-#EXTINF:-1,Show:Pitty
-http://94.23.215.56/filmes/SHOWS/Pitty%20-%20%7bDes%7d%20Concerto%20Ao%20Vivo%20(Show%20Completo).mp4
-#EXTINF:-1,Show:PLANTA E RAIZ
-http://fonte.iptvmaishd.com:25461/4791/4791/162549
-#EXTINF:-1,Show:PPA
-http://94.23.215.56/filmes/SHOWS/Pedro%20Paulo%20e%20Alex%20-%20DVD%20Ao%20Vivo%20PPA.mp4
-#EXTINF:-1,Show:PSIRICO
-ttp://94.23.215.56/filmes/SHOWS/PSIRICO%20AO%20VIVO%20NO%20FESTIVAL%20VIRADA%20SALVADOR%202019%20(SHOW%20COMPLETO).mp4
-#EXTINF:-1,Show:Queen
-http://94.23.215.56/filmes/SHOWS/Queen%20-%20Greatest%20Live%20Performances.mp4
-#EXTINF:-1,Show:Raça Negra
-http://94.23.215.56/filmes/SHOWS/RA%c3%87A%20NEGRA%20DVD%20COMPLETO.mp4
-#EXTINF:-1,Show:Rappa
-http://94.23.215.56/filmes/SHOWS/O%20Rappa%20Planeta%20Atl%c3%a2ntida%202016.mp4
-#EXTINF:-1,Show:Rita Lee
-http://fonte.iptvmaishd.com:25461/4791/4791/162547
-#EXTINF:-1,Show:Roberto Carlos
-http://fonte.iptvmaishd.com:25461/4791/4791/162546
-#EXTINF:-1,Show:Saulo
-http://fonte.iptvmaishd.com:25461/4791/4791/162554
-#EXTINF:-1,Show:Simone e Simaria
-http://fonte.iptvmaishd.com:25461/4791/4791/162552
-#EXTINF:-1,Show:Suellen Lima
-http://94.23.215.56/filmes/SHOWS/Suellen%20Lima%20Show%20DVD%20ao%20Vivo%20Completo.mp4
-#EXTINF:-1,Show:The Beatles
-http://94.23.215.56/filmes/SHOWS/The%20Fab%20Four%20-%20Beatles%20Tribute%20Full%20Concert.mp4
-#EXTINF:-1,Show:TIAGO IORC
-http://fonte.iptvmaishd.com:25461/4791/4791/162575
-#EXTINF:-1,Show:Tribo de Jah
-http://fonte.iptvmaishd.com:25461/4791/4791/162581
-#EXTINF:-1,Show:Turma do Pagode
-http://94.23.215.56/filmes/SHOWS/Turma%20Do%20Pagode%20-%20Esse%20%c3%a9%20o%20Clima%20-%20Show%20Completo%20-%20Oficial%20-%20HD.mp4
-#EXTINF:-1,Show:U2
-http://94.23.215.56/filmes/SHOWS/U2%20U22%20The%20Show%20Never%20Done%20%5bEntire%20Show%201080p%20by%20MekVox%5d.mp4
-#EXTINF:-1,Show:WANDO
-http://94.23.215.56/filmes/SHOWS/WANDO%20SHOW%20AO%20VIVO%20DVD%20COMPLETO%20as%20melhores.mp4
-#EXTINF:-1,Show:Wesley Safadão
-http://94.23.215.56/filmes/SHOWS/Wesley%20Safad%c3%a3o%20-%20Caldas%20Country%202018%20(SHOW%20COMPLETO).mp4
-#EXTINF:-1,Show:Zé Ramalho
-http://fonte.iptvmaishd.com:25461/4791/4791/162559
-#EXTINF:-1,Show:Zeze di Camargo e Luciano
-http://fonte.iptvmaishd.com:25461/4791/4791/162545
+#EXTINF:-1,BBB Principal FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/68886
+#EXTINF:-1,Globo SP FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1949
+#EXTINF:-1,Globo SP HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1948
+#EXTINF:-1,Globo SP
+http://dns.bplay.live:8080/anderson1234/anderson1234/1947
+#EXTINF:-1,Globo SP FHD²
+http://dns.bplay.live:8080/anderson1234/anderson1234/24774
+#EXTINF:-1,Globo SP Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2619
+#EXTINF:-1,Globo RJ FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1943
+#EXTINF:-1,Globo RJ HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1942
+#EXTINF:-1,Globo RJ FHD²
+http://dns.bplay.live:8080/anderson1234/anderson1234/24773
+#EXTINF:-1,Globo RJ Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2617
+#EXTINF:-1,Globo MG FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1981
+#EXTINF:-1,Globo MG HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1933
+#EXTINF:-1,Globo MG
+http://dns.bplay.live:8080/anderson1234/anderson1234/1932
+#EXTINF:-1,Globo MG FHD²
+http://dns.bplay.live:8080/anderson1234/anderson1234/24775
+#EXTINF:-1,Globo MG Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/24776
+#EXTINF:-1,Globo MG Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/24777
+#EXTINF:-1,Globo RPC Curitiba FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1946
+#EXTINF:-1,Globo RPC Curitiba HD²
+http://dns.bplay.live:8080/anderson1234/anderson1234/1945
+#EXTINF:-1,Globo RPC Curitiba
+http://dns.bplay.live:8080/anderson1234/anderson1234/1944
+#EXTINF:-1,Globo RPC Curitiba Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61306
+#EXTINF:-1,Globo RPC Foz do Iguaçu FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1968
+#EXTINF:-1,Globo RPC Foz do Iguaçu HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1969
+#EXTINF:-1,Globo RPC Foz do Iguaçu
+http://dns.bplay.live:8080/anderson1234/anderson1234/1967
+#EXTINF:-1,Globo RPC Maringa FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/12729
+#EXTINF:-1,Globo RPC Maringa HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/12730
+#EXTINF:-1,Globo RPC Maringa
+http://dns.bplay.live:8080/anderson1234/anderson1234/12731
+#EXTINF:-1,Globo RPC Cascavel FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39420
+#EXTINF:-1,Globo RPC Cascavel HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39421
+#EXTINF:-1,Globo RPC Cascavel
+http://dns.bplay.live:8080/anderson1234/anderson1234/39422
+#EXTINF:-1,Globo RPC TV Paranavai FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39423
+#EXTINF:-1,Globo RPC TV Paranavai HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39424
+#EXTINF:-1,Globo RPC TV Paranavai
+http://dns.bplay.live:8080/anderson1234/anderson1234/39425
+#EXTINF:-1,Globo RPC TV Ponta Grossa FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39434
+#EXTINF:-1,Globo RPC TV Ponta Grossa HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39435
+#EXTINF:-1,Globo RPC TV Ponta Grossa
+http://dns.bplay.live:8080/anderson1234/anderson1234/39436
+#EXTINF:-1,Globo RBS POA FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1984
+#EXTINF:-1,Globo RBS TV POA HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1939
+#EXTINF:-1,Globo RBS TV POA
+http://dns.bplay.live:8080/anderson1234/anderson1234/1938
+#EXTINF:-1,Globo RBS TV Pelotas FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2021
+#EXTINF:-1,Globo RBS TV Pelotas HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2022
+#EXTINF:-1,Globo RBS TV Pelotas
+http://dns.bplay.live:8080/anderson1234/anderson1234/2023
+#EXTINF:-1,Globo RBS TV Caxias do Sul FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2015
+#EXTINF:-1,Globo RBS TV Caxias do Sul HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2016
+#EXTINF:-1,Globo RBS TV Caxias do Sul
+http://dns.bplay.live:8080/anderson1234/anderson1234/2017
+#EXTINF:-1,Globo RBS TV Passo Fundo FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39437
+#EXTINF:-1,Globo RBS TV Passo Fundo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39438
+#EXTINF:-1,Globo RBS TV Passo Fundo
+http://dns.bplay.live:8080/anderson1234/anderson1234/39439
+#EXTINF:-1,Globo RBS TV Santa Maria FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39440
+#EXTINF:-1,Globo RBS TV Santa Maria HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39441
+#EXTINF:-1,Globo RBS TV Santa Maria
+http://dns.bplay.live:8080/anderson1234/anderson1234/39442
+#EXTINF:-1,Globo NSC TV Florianopolis FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1983
+#EXTINF:-1,Globo NSC TV Florianopolis HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1937
+#EXTINF:-1,Globo NSC TV Florianópolis
+http://dns.bplay.live:8080/anderson1234/anderson1234/1936
+#EXTINF:-1,Globo NSC TV Joinville FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2018
+#EXTINF:-1,Globo NSC TV Joinville HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2019
+#EXTINF:-1,Globo NSC TV Joinville
+http://dns.bplay.live:8080/anderson1234/anderson1234/2020
+#EXTINF:-1,Globo NSC TV Chapecó FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1964
+#EXTINF:-1,Globo NSC TV Chapecó HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1965
+#EXTINF:-1,Globo NSC TV Chapecó
+http://dns.bplay.live:8080/anderson1234/anderson1234/1966
+#EXTINF:-1,Globo NSC TV Blumenau FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2012
+#EXTINF:-1,Globo NSC TV Blumenau HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2013
+#EXTINF:-1,Globo NSC TV Blumenal
+http://dns.bplay.live:8080/anderson1234/anderson1234/2014
+#EXTINF:-1,Globo NSC TV Centro Oeste FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39443
+#EXTINF:-1,Globo NSC TV Centro Oeste HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39444
+#EXTINF:-1,Globo NSC TV Centro Oeste
+http://dns.bplay.live:8080/anderson1234/anderson1234/39445
+#EXTINF:-1,Globo NSC TV Criciuma FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39446
+#EXTINF:-1,Globo NSC TV Criciuma HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39447
+#EXTINF:-1,Globo NSC TV Criciuma
+http://dns.bplay.live:8080/anderson1234/anderson1234/39448
+#EXTINF:-1,Globo Brasília FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1979
+#EXTINF:-1,Globo Brasília HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1924
+#EXTINF:-1,Globo Nordeste FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1982
+#EXTINF:-1,Globo Nordeste HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1935
+#EXTINF:-1,Globo Nordeste
+http://dns.bplay.live:8080/anderson1234/anderson1234/1934
+#EXTINF:-1,Globo TV Vanguarda S.J. Dos Campos HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39455
+#EXTINF:-1,Globo TV Vanguarda S. J. Dos Campos
+http://dns.bplay.live:8080/anderson1234/anderson1234/1961
+#EXTINF:-1,Globo TV Tem Taubate HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61265
+#EXTINF:-1,Globo TV Tem Taubate
+http://dns.bplay.live:8080/anderson1234/anderson1234/61266
+#EXTINF:-1,Globo TV Tribuna Santos FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/44686
+#EXTINF:-1,Globo TV Tribuna Santos HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/44687
+#EXTINF:-1,Globo TV Tribuna Santos
+http://dns.bplay.live:8080/anderson1234/anderson1234/1960
+#EXTINF:-1,Globo TV Tem Sorocaba
+http://dns.bplay.live:8080/anderson1234/anderson1234/1957
+#EXTINF:-1,Globo TV TEM S. J. Rio Preto FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1993
+#EXTINF:-1,Globo TV Tem S. J. do Rio Preto HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1958
+#EXTINF:-1,Globo TV TEM S. J. do Rio Preto
+http://dns.bplay.live:8080/anderson1234/anderson1234/1959
+#EXTINF:-1,Globo TV Tem Bauru HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61267
+#EXTINF:-1,Globo TV Tem Bauru
+http://dns.bplay.live:8080/anderson1234/anderson1234/1956
+#EXTINF:-1,Globo TV Tem Itapetinga HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61300
+#EXTINF:-1,Globo TV Tem Itapetinga
+http://dns.bplay.live:8080/anderson1234/anderson1234/61301
+#EXTINF:-1,Globo TV Sergipe FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1977
+#EXTINF:-1,Globo TV Sergipe HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1978
+#EXTINF:-1,Globo TV Sergipe
+http://dns.bplay.live:8080/anderson1234/anderson1234/1976
+#EXTINF:-1,Globo Recife FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61713
+#EXTINF:-1,Globo Recife HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61714
+#EXTINF:-1,Globo Recife
+http://dns.bplay.live:8080/anderson1234/anderson1234/61715
+#EXTINF:-1,Globo TV Santa Cruz FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2030
+#EXTINF:-1,Globo TV Santa Cruz HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2031
+#EXTINF:-1,Globo TV Santa Cruz
+http://dns.bplay.live:8080/anderson1234/anderson1234/2032
+#EXTINF:-1,Globo TV Rio Sul FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2027
+#EXTINF:-1,Globo TV Rio Sul HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2028
+#EXTINF:-1,Globo TV Rio Sul
+http://dns.bplay.live:8080/anderson1234/anderson1234/2029
+#EXTINF:-1,Globo TV Morena Campo Grande FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1990
+#EXTINF:-1,Globo TV Morena Campo Grande HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1991
+#EXTINF:-1,Globo TV Morena Campo Grande
+http://dns.bplay.live:8080/anderson1234/anderson1234/1992
+#EXTINF:-1,Globo TV Mirante São Luis FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1987
+#EXTINF:-1,Globo TV Mirante São Luis HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1988
+#EXTINF:-1,Globo TV Mirante São Luis
+http://dns.bplay.live:8080/anderson1234/anderson1234/1989
+#EXTINF:-1,Globo TV Mirante Cocais FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39417
+#EXTINF:-1,Globo TV Mirante Cocais HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39418
+#EXTINF:-1,Globo TV Mirante Cocais
+http://dns.bplay.live:8080/anderson1234/anderson1234/39419
+#EXTINF:-1,Globo TV Liberal Belem
+http://dns.bplay.live:8080/anderson1234/anderson1234/1955
+#EXTINF:-1,Globo TV Gazeta Vitoria FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1974
+#EXTINF:-1,Globo TV Gazeta Vitoria HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1975
+#EXTINF:-1,Globo TV Gazeta Vitoria
+http://dns.bplay.live:8080/anderson1234/anderson1234/1973
+#EXTINF:-1,Globo TV Gazeta Sul ES FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1997
+#EXTINF:-1,Globo TV Gazeta Sul ES HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1998
+#EXTINF:-1,Globo TV Gazeta Alagoas FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1995
+#EXTINF:-1,Globo TV Gazeta Alagoas HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1996
+#EXTINF:-1,Globo TV Clube Teresina FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1971
+#EXTINF:-1,Globo TV Clube Teresina HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1972
+#EXTINF:-1,Globo TV Clube Teresina
+http://dns.bplay.live:8080/anderson1234/anderson1234/1970
+#EXTINF:-1,Globo TV Cabo Branco FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2024
+#EXTINF:-1,Globo TV Cabo Branco HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2025
+#EXTINF:-1,Globo TV Cabo Branco
+http://dns.bplay.live:8080/anderson1234/anderson1234/2026
+#EXTINF:-1,Globo TV C. America Cuiba FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39454
+#EXTINF:-1,Globo TV C. America Cuiba HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39453
+#EXTINF:-1,Globo TV C. America Cuiaba
+http://dns.bplay.live:8080/anderson1234/anderson1234/1954
+#EXTINF:-1,Globo TV Bahia FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1986
+#EXTINF:-1,Globo TV Bahia HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1953
+#EXTINF:-1,Globo TV Bahia
+http://dns.bplay.live:8080/anderson1234/anderson1234/1952
+#EXTINF:-1,Globo TV Subae FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39449
+#EXTINF:-1,Globo TV Subae HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39450
+#EXTINF:-1,Globo TV Subae
+http://dns.bplay.live:8080/anderson1234/anderson1234/39451
+#EXTINF:-1,Globo TV Sudoeste FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39462
+#EXTINF:-1,Globo TV Sudoeste HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39463
+#EXTINF:-1,Globo TV Sudoeste
+http://dns.bplay.live:8080/anderson1234/anderson1234/39464
+#EXTINF:-1,Globo TV Anhanguera FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1985
+#EXTINF:-1,Globo TV Anhanguera HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1951
+#EXTINF:-1,Globo TV Anhanguera
+http://dns.bplay.live:8080/anderson1234/anderson1234/1950
+#EXTINF:-1,Globo TV Anhanguera Anapolis HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/68894
+#EXTINF:-1,Globo TV Anhanguera Anapolis
+http://dns.bplay.live:8080/anderson1234/anderson1234/68893
+#EXTINF:-1,Globo TV Anhanguera Catalão HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/65156
+#EXTINF:-1,Globo TV Anhanguera Catalão
+http://dns.bplay.live:8080/anderson1234/anderson1234/65157
+#EXTINF:-1,Globo TV Anhanguera Itumbiara HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/65154
+#EXTINF:-1,Globo TV Anhanguera Itumbiara
+http://dns.bplay.live:8080/anderson1234/anderson1234/65155
+#EXTINF:-1,Globo Inter TV Serra Mar FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2009
+#EXTINF:-1,Globo Inter TV Serra Mar HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2010
+#EXTINF:-1,Globo Inter TV Serra Mar
+http://dns.bplay.live:8080/anderson1234/anderson1234/2011
+#EXTINF:-1,Globo INTER TV Natal
+http://dns.bplay.live:8080/anderson1234/anderson1234/1931
+#EXTINF:-1,Globo Inter TV Grande Minas FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2006
+#EXTINF:-1,Globo Inter TV Grande Minas HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2007
+#EXTINF:-1,Globo Inter TV Grande Minas
+http://dns.bplay.live:8080/anderson1234/anderson1234/2008
+#EXTINF:-1,Globo Inter TV dos Vales FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2003
+#EXTINF:-1,Globo Inter TV dos Vales HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2004
+#EXTINF:-1,Globo Inter TV dos Vales
+http://dns.bplay.live:8080/anderson1234/anderson1234/2005
+#EXTINF:-1,Globo TV Verde Mares Fortaleza FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39415
+#EXTINF:-1,Globo TV Verdes Mares Fortaleza HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/38904
+#EXTINF:-1,Globo TV Verdes Mares Fortaleza
+http://dns.bplay.live:8080/anderson1234/anderson1234/38903
+#EXTINF:-1,Globo TV Verdes Mares Cariri FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/20724
+#EXTINF:-1,Globo TV Verdes Mares Cariri HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1962
+#EXTINF:-1,Globo TV Verde Mares Cariri
+http://dns.bplay.live:8080/anderson1234/anderson1234/39456
+#EXTINF:-1,Globo Inter TV Alto Litoral FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2000
+#EXTINF:-1,Globo Inter TV Alto Litoral HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2001
+#EXTINF:-1,Globo Inter TV Alto Litoral
+http://dns.bplay.live:8080/anderson1234/anderson1234/2002
+#EXTINF:-1,Globo EPTV São Carlos
+http://dns.bplay.live:8080/anderson1234/anderson1234/1930
+#EXTINF:-1,Globo EPTV Ribeirão Preto FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1999
+#EXTINF:-1,Globo EPTV Ribeirão Preto HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1928
+#EXTINF:-1,Globo EPTV Ribeirão Preto
+http://dns.bplay.live:8080/anderson1234/anderson1234/1929
+#EXTINF:-1,Globo EPTV Campinas FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1980
+#EXTINF:-1,Globo EPTV Campinas HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1927
+#EXTINF:-1,Globo EPTV Campinas
+http://dns.bplay.live:8080/anderson1234/anderson1234/1926
+#EXTINF:-1,Globo EPTV Sul de Minas FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39452
+#EXTINF:-1,Globo EPTV Sul de Minas HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/27735
+#EXTINF:-1,Globo EPTV Sul de Minas
+http://dns.bplay.live:8080/anderson1234/anderson1234/27736
+#EXTINF:-1,Globo EPTV Araraquara
+http://dns.bplay.live:8080/anderson1234/anderson1234/1925
+#EXTINF:-1,Globo TV Rede Amazonica Manaus FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39457
+#EXTINF:-1,Globo Rede Amazonica Manaus HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39458
+#EXTINF:-1,Globo TV Rede Amazonica Manaus
+http://dns.bplay.live:8080/anderson1234/anderson1234/1940
+#EXTINF:-1,Globo TV Rede Amazonica Macapa FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39467
+#EXTINF:-1,Globo TV Rede Amazonica Macapa HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39466
+#EXTINF:-1,Globo TV Rede Amazonica Macapa
+http://dns.bplay.live:8080/anderson1234/anderson1234/39465
+#EXTINF:-1,Globo TV Rede Amazonica Rio Branco FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39468
+#EXTINF:-1,Globo TV Rede Amazonica Rio Branco HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39469
+#EXTINF:-1,Globo TV Rede Amazonica Rio Branco
+http://dns.bplay.live:8080/anderson1234/anderson1234/39470
+#EXTINF:-1,Globo TV Rede Amazonica Boa Vista FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39471
+#EXTINF:-1,Globo TV Rede Amazonica Boa Vista HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39472
+#EXTINF:-1,Globo TV Rede Amazonica Boa Vista
+http://dns.bplay.live:8080/anderson1234/anderson1234/39473
+#EXTINF:-1,Globo TV Rede Amazonica Porto Velho FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39474
+#EXTINF:-1,Globo TV Rede Amazonica Porto Velho HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39475
+#EXTINF:-1,Globo TV Rede Amazonica Porto Velho
+http://dns.bplay.live:8080/anderson1234/anderson1234/39476
+#EXTINF:-1,Globo TV Asa Branca FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39459
+#EXTINF:-1,Globo TV Asa Branca HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39460
+#EXTINF:-1,Globo TV Asa Branca
+http://dns.bplay.live:8080/anderson1234/anderson1234/39461
+#EXTINF:-1,Globo TV Integração Araxa HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61333
+#EXTINF:-1,Globo TV Integração Araxa
+http://dns.bplay.live:8080/anderson1234/anderson1234/61334
+#EXTINF:-1,Globo Portugal FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61734
+#EXTINF:-1,Globo Portugal HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/52000
+#EXTINF:-1,Globo Portugal
+http://dns.bplay.live:8080/anderson1234/anderson1234/2435
+#EXTINF:-1,Globo Now
+http://dns.bplay.live:8080/anderson1234/anderson1234/2433
+#EXTINF:-1,RecordTV SP FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2371
+#EXTINF:-1,RecordTV SP HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2206
+#EXTINF:-1,RecordTV SP
+http://dns.bplay.live:8080/anderson1234/anderson1234/1899
+#EXTINF:-1,RecordTV SP HD2
+http://dns.bplay.live:8080/anderson1234/anderson1234/2203
+#EXTINF:-1,RecordTV SP2
+http://dns.bplay.live:8080/anderson1234/anderson1234/2202
+#EXTINF:-1,Record TV SP Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1278
+#EXTINF:-1,Record TV Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/1165
+#EXTINF:-1,RecordTV RJ HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2274
+#EXTINF:-1,RecordTV RJ
+http://dns.bplay.live:8080/anderson1234/anderson1234/2275
+#EXTINF:-1,RecordTV RJ Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61274
+#EXTINF:-1,RecordTV RJ Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/61275
+#EXTINF:-1,RecordTV MG HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2276
+#EXTINF:-1,RecordTV MG
+http://dns.bplay.live:8080/anderson1234/anderson1234/2277
+#EXTINF:-1,RecordTV RS HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2285
+#EXTINF:-1,RecordTV RS
+http://dns.bplay.live:8080/anderson1234/anderson1234/2286
+#EXTINF:-1,RecordTV DF HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2283
+#EXTINF:-1,RecordTV BA HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2281
+#EXTINF:-1,RecordTV BA
+http://dns.bplay.live:8080/anderson1234/anderson1234/2282
+#EXTINF:-1,RecordTV GO FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13196
+#EXTINF:-1,RecordTV GO HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/10932
+#EXTINF:-1,RecordTV GO
+http://dns.bplay.live:8080/anderson1234/anderson1234/10933
+#EXTINF:-1,RecordTV Belém HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/10930
+#EXTINF:-1,RecordTV Belém
+http://dns.bplay.live:8080/anderson1234/anderson1234/10931
+#EXTINF:-1,RecordTV Campinas FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/45140
+#EXTINF:-1,RecordTV Campinas HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/45139
+#EXTINF:-1,RecordTV Campinas
+http://dns.bplay.live:8080/anderson1234/anderson1234/19845
+#EXTINF:-1,RecordTV São Jose do Rio Preto
+http://dns.bplay.live:8080/anderson1234/anderson1234/13195
+#EXTINF:-1,RecordTV Santa Catarina
+http://dns.bplay.live:8080/anderson1234/anderson1234/16606
+#EXTINF:-1,RecordTV Paraná
+http://dns.bplay.live:8080/anderson1234/anderson1234/50847
+#EXTINF:-1,RecordTV Sergipe
+http://dns.bplay.live:8080/anderson1234/anderson1234/13194
+#EXTINF:-1,RecordTV Itapoan
+http://dns.bplay.live:8080/anderson1234/anderson1234/61302
+#EXTINF:-1,RecordTV Cabralia BA
+http://dns.bplay.live:8080/anderson1234/anderson1234/61730
+#EXTINF:-1,RecordTV Portugal HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2436
+#EXTINF:-1,RecordTV Portugal
+http://dns.bplay.live:8080/anderson1234/anderson1234/51263
+#EXTINF:-1,BBB Principal HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/69522
+#EXTINF:-1,BBB Principal Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/69535
+#EXTINF:-1,BBB Principal 2 HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/69523
+#EXTINF:-1,BBB Mosaico
+http://dns.bplay.live:8080/anderson1234/anderson1234/69485
+#EXTINF:-1,BBB Casa 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/69524
+#EXTINF:-1,BBB Casa 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/69525
+#EXTINF:-1,BBB Quarto 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/69526
+#EXTINF:-1,BBB Quarto 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/69527
+#EXTINF:-1,BBB Sala
+http://dns.bplay.live:8080/anderson1234/anderson1234/69528
+#EXTINF:-1,BBB Cozinha
+http://dns.bplay.live:8080/anderson1234/anderson1234/69529
+#EXTINF:-1,BBB Piscina
+http://dns.bplay.live:8080/anderson1234/anderson1234/69530
+#EXTINF:-1,BBB Academia
+http://dns.bplay.live:8080/anderson1234/anderson1234/69532
+#EXTINF:-1,BBB Chuveiro
+http://dns.bplay.live:8080/anderson1234/anderson1234/69533
+#EXTINF:-1,BBB Jardim
+http://dns.bplay.live:8080/anderson1234/anderson1234/69531
+#EXTINF:-1,SBT SP FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1900
+#EXTINF:-1,SBT SP HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2212
+#EXTINF:-1,SBT SP
+http://dns.bplay.live:8080/anderson1234/anderson1234/2211
+#EXTINF:-1,SBT SP Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1324
+#EXTINF:-1,SBT SP Interior
+http://dns.bplay.live:8080/anderson1234/anderson1234/2213
+#EXTINF:-1,SBT Santos
+http://dns.bplay.live:8080/anderson1234/anderson1234/68899
+#EXTINF:-1,SBT Paraná HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/52131
+#EXTINF:-1,SBT Paraná
+http://dns.bplay.live:8080/anderson1234/anderson1234/50840
+#EXTINF:-1,SBT Nordeste
+http://dns.bplay.live:8080/anderson1234/anderson1234/51247
+#EXTINF:-1,SBT TV Aratu BA
+http://dns.bplay.live:8080/anderson1234/anderson1234/20980
+#EXTINF:-1,SBT TV Serra Dourada GO
+http://dns.bplay.live:8080/anderson1234/anderson1234/20984
+#EXTINF:-1,SBT TV Alterosa MG
+http://dns.bplay.live:8080/anderson1234/anderson1234/50848
+#EXTINF:-1,SBT TV Aperipe SE
+http://dns.bplay.live:8080/anderson1234/anderson1234/45753
+#EXTINF:-1,SBT TV Jangadeiro CE
+http://dns.bplay.live:8080/anderson1234/anderson1234/61272
+#EXTINF:-1,SBT Recife TV Jornal
+http://dns.bplay.live:8080/anderson1234/anderson1234/61716
+#EXTINF:-1,SBT RJ
+http://dns.bplay.live:8080/anderson1234/anderson1234/53001
+#EXTINF:-1,SBT RS
+http://dns.bplay.live:8080/anderson1234/anderson1234/52473
+#EXTINF:-1,SBT SC
+http://dns.bplay.live:8080/anderson1234/anderson1234/70107
+#EXTINF:-1,Band SP FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1878
+#EXTINF:-1,Band SP HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2056
+#EXTINF:-1,Band SP
+http://dns.bplay.live:8080/anderson1234/anderson1234/2055
+#EXTINF:-1,Band SP Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1268
+#EXTINF:-1,Band Mais Campinas FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/66554
+#EXTINF:-1,Band Mais Campinas HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/66553
+#EXTINF:-1,Band Mais Campinas
+http://dns.bplay.live:8080/anderson1234/anderson1234/20625
+#EXTINF:-1,Band Santos
+http://dns.bplay.live:8080/anderson1234/anderson1234/70106
+#EXTINF:-1,Band MG
+http://dns.bplay.live:8080/anderson1234/anderson1234/60666
+#EXTINF:-1,Band RJ
+http://dns.bplay.live:8080/anderson1234/anderson1234/27024
+#EXTINF:-1,Band RS
+http://dns.bplay.live:8080/anderson1234/anderson1234/61271
+#EXTINF:-1,Band BSB
+http://dns.bplay.live:8080/anderson1234/anderson1234/61731
+#EXTINF:-1,Band Sergipe
+http://dns.bplay.live:8080/anderson1234/anderson1234/27023
+#EXTINF:-1,Band TV Goiânia
+http://dns.bplay.live:8080/anderson1234/anderson1234/20985
+#EXTINF:-1,Band TV Taroba Curitiba
+http://dns.bplay.live:8080/anderson1234/anderson1234/61732
+#EXTINF:-1,Band Bahia
+http://dns.bplay.live:8080/anderson1234/anderson1234/61733
+#EXTINF:-1,Rede TV FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1910
+#EXTINF:-1,Rede TV HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2209
+#EXTINF:-1,Rede TV
+http://dns.bplay.live:8080/anderson1234/anderson1234/2208
+#EXTINF:-1,Rede TV Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1323
+#EXTINF:-1,Rede Brasil FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/68900
+#EXTINF:-1,Rede Brasil HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61719
+#EXTINF:-1,Rede Brasil
+http://dns.bplay.live:8080/anderson1234/anderson1234/2207
+#EXTINF:-1,Rede Brasil Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/1167
+#EXTINF:-1,TV Diário Fortaleza FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1914
+#EXTINF:-1,TV Diario Fortaleza HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2287
+#EXTINF:-1,TV Diário Fortaleza
+http://dns.bplay.live:8080/anderson1234/anderson1234/2288
+#EXTINF:-1,TV Diario Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61728
+#EXTINF:-1,Tv Cultura FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1909
+#EXTINF:-1,TV Cultura HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2272
+#EXTINF:-1,TV Cultura
+http://dns.bplay.live:8080/anderson1234/anderson1234/2271
+#EXTINF:-1,TV Cultura Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61720
+#EXTINF:-1,TV Cultura Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/1125
+#EXTINF:-1,TV Brasil
+http://dns.bplay.live:8080/anderson1234/anderson1234/2249
+#EXTINF:-1,TV Brasil Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/1238
+#EXTINF:-1,TV Câmara HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61721
+#EXTINF:-1,TV Câmara
+http://dns.bplay.live:8080/anderson1234/anderson1234/2250
+#EXTINF:-1,TV Justiça HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61723
+#EXTINF:-1,TV Justiça
+http://dns.bplay.live:8080/anderson1234/anderson1234/2247
+#EXTINF:-1,TV Senado HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61724
+#EXTINF:-1,TV Senado
+http://dns.bplay.live:8080/anderson1234/anderson1234/2246
+#EXTINF:-1,TV Escola HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61725
+#EXTINF:-1,TV Gazeta SP FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/24271
+#EXTINF:-1,TV Gazeta SP  HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2252
+#EXTINF:-1,TV Gazeta SP
+http://dns.bplay.live:8080/anderson1234/anderson1234/24272
+#EXTINF:-1,Futura FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1834
+#EXTINF:-1,Futura HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2126
+#EXTINF:-1,Futura
+http://dns.bplay.live:8080/anderson1234/anderson1234/2125
+#EXTINF:-1,Futura Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61726
+#EXTINF:-1,Futura Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/1196
+#EXTINF:-1,Canal do Boi HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/70104
+#EXTINF:-1,Canal do Boi
+http://dns.bplay.live:8080/anderson1234/anderson1234/2291
+#EXTINF:-1,Agro Brasil TV
+http://dns.bplay.live:8080/anderson1234/anderson1234/61727
+#EXTINF:-1,Canal Rural
+http://dns.bplay.live:8080/anderson1234/anderson1234/1183
+#EXTINF:-1,Terra Viva
+http://dns.bplay.live:8080/anderson1234/anderson1234/2238
+#EXTINF:-1,Globo News FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1888
+#EXTINF:-1,Globo News HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2130
+#EXTINF:-1,Globo News
+http://dns.bplay.live:8080/anderson1234/anderson1234/2129
+#EXTINF:-1,Globo News Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1341
+#EXTINF:-1,Globo News Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/1138
+#EXTINF:-1,Band News FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1811
+#EXTINF:-1,Band News HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2058
+#EXTINF:-1,Band News Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1476
+#EXTINF:-1,CNN Brasil FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/22224
+#EXTINF:-1,CNN Brasil HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/22225
+#EXTINF:-1,CNN Brasil
+http://dns.bplay.live:8080/anderson1234/anderson1234/22226
+#EXTINF:-1,CNN Brasil Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/22345
+#EXTINF:-1,CNN Brasil Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/22346
+#EXTINF:-1,CNN Internacional
+http://dns.bplay.live:8080/anderson1234/anderson1234/62368
+#EXTINF:-1,CNN Espanhol
+http://dns.bplay.live:8080/anderson1234/anderson1234/62369
+#EXTINF:-1,Jovem Pan News FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/66549
+#EXTINF:-1,Jovem Pan News HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/66550
+#EXTINF:-1,Jovem Pan News
+http://dns.bplay.live:8080/anderson1234/anderson1234/66548
+#EXTINF:-1,Jovem Pan News Alternativo FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/66582
+#EXTINF:-1,Record News FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1861
+#EXTINF:-1,Record News HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2205
+#EXTINF:-1,Record News
+http://dns.bplay.live:8080/anderson1234/anderson1234/2204
+#EXTINF:-1,Record News Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1475
+#EXTINF:-1,Programação Esportiva
+http://dns.bplay.live:8080/anderson1234/anderson1234/70847
+#EXTINF:-1,SporTV FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2035
+#EXTINF:-1,SporTV HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2038
+#EXTINF:-1,SporTV
+http://dns.bplay.live:8080/anderson1234/anderson1234/2218
+#EXTINF:-1,SporTV Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1303
+#EXTINF:-1,SporTV FHD²
+http://dns.bplay.live:8080/anderson1234/anderson1234/13069
+#EXTINF:-1,SporTV HD²
+http://dns.bplay.live:8080/anderson1234/anderson1234/13070
+#EXTINF:-1,SporTV 2 FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1917
+#EXTINF:-1,SporTV 2 HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2036
+#EXTINF:-1,SporTV 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/2219
+#EXTINF:-1,SporTV 2 Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1301
+#EXTINF:-1,SporTV 2 Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/1173
+#EXTINF:-1,SporTV 2 FHD²
+http://dns.bplay.live:8080/anderson1234/anderson1234/13072
+#EXTINF:-1,SporTV 2 HD²
+http://dns.bplay.live:8080/anderson1234/anderson1234/13073
+#EXTINF:-1,SporTV 2²
+http://dns.bplay.live:8080/anderson1234/anderson1234/13074
+#EXTINF:-1,SporTV 3 FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1918
+#EXTINF:-1,SporTV 3 HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2037
+#EXTINF:-1,SporTV 3
+http://dns.bplay.live:8080/anderson1234/anderson1234/2220
+#EXTINF:-1,SporTV 3 Alternativo  HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1302
+#EXTINF:-1,SporTV 3 FHD²
+http://dns.bplay.live:8080/anderson1234/anderson1234/13075
+#EXTINF:-1,SporTV 3 HD²
+http://dns.bplay.live:8080/anderson1234/anderson1234/13076
+#EXTINF:-1,SporTV 3²
+http://dns.bplay.live:8080/anderson1234/anderson1234/13077
+#EXTINF:-1,Fox Sports FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13078
+#EXTINF:-1,Fox Sports HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13079
+#EXTINF:-1,Fox Sports
+http://dns.bplay.live:8080/anderson1234/anderson1234/13080
+#EXTINF:-1,Fox Sports 2 FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13081
+#EXTINF:-1,FoxSports 2 HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13082
+#EXTINF:-1,Fox Sports 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/13083
+#EXTINF:-1,ESPN 4 FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1887
+#EXTINF:-1,ESPN 4 HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2122
+#EXTINF:-1,ESPN 4
+http://dns.bplay.live:8080/anderson1234/anderson1234/2121
+#EXTINF:-1,ESPN 4 Alternarivo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1295
+#EXTINF:-1,ESPN 4 Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/1136
+#EXTINF:-1,Fox Sports 2 FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1886
+#EXTINF:-1,ESPN FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1883
+#EXTINF:-1,ESPN HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2105
+#EXTINF:-1,ESPN
+http://dns.bplay.live:8080/anderson1234/anderson1234/2104
+#EXTINF:-1,ESPN Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1294
+#EXTINF:-1,ESPN 2 FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1884
+#EXTINF:-1,ESPN 2 HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2108
+#EXTINF:-1,Espn 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/2101
+#EXTINF:-1,ESPN 2 Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1311
+#EXTINF:-1,ESPN 2 FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1827
+#EXTINF:-1,ESPN 2 HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2103
+#EXTINF:-1,ESPN 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/2102
+#EXTINF:-1,ESPN 2 Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1293
+#EXTINF:-1,Fox Sports 2 HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2124
+#EXTINF:-1,Fox Sports 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/2123
+#EXTINF:-1,FOX Sports 2 Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1314
+#EXTINF:-1,Fox Sports 2 Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/1135
+#EXTINF:-1,Conmebol TV 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/40596
+#EXTINF:-1,Conmebol TV 1 Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/48678
+#EXTINF:-1,Conmebol TV 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/35223
+#EXTINF:-1,Conmebol TV 2 Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/48679
+#EXTINF:-1,Conmebol TV 3
+http://dns.bplay.live:8080/anderson1234/anderson1234/35230
+#EXTINF:-1,Conmebol TV Alternativo 3
+http://dns.bplay.live:8080/anderson1234/anderson1234/35242
+#EXTINF:-1,Conmebol TV 4
+http://dns.bplay.live:8080/anderson1234/anderson1234/35231
+#EXTINF:-1,Conmebol TV Alternativo 4
+http://dns.bplay.live:8080/anderson1234/anderson1234/35243
+#EXTINF:-1,Facebook - Copa Libertadores
+http://dns.bplay.live:8080/anderson1234/anderson1234/2302
+#EXTINF:-1,HBO Max 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/64038
+#EXTINF:-1,HBO Max 3
+http://dns.bplay.live:8080/anderson1234/anderson1234/64039
+#EXTINF:-1,Star + 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/63979
+#EXTINF:-1,Star + 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/64557
+#EXTINF:-1,Star + 3
+http://dns.bplay.live:8080/anderson1234/anderson1234/64558
+#EXTINF:-1,Star + 4
+http://dns.bplay.live:8080/anderson1234/anderson1234/66580
+#EXTINF:-1,Star + 5
+http://dns.bplay.live:8080/anderson1234/anderson1234/66581
+#EXTINF:-1,Star + 6
+http://dns.bplay.live:8080/anderson1234/anderson1234/66585
+#EXTINF:-1,DAZN 1 Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1406
+#EXTINF:-1,ESPN Extra FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1828
+#EXTINF:-1,ESPN Extra HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2107
+#EXTINF:-1,ESPN Extra
+http://dns.bplay.live:8080/anderson1234/anderson1234/2106
+#EXTINF:-1,ESPN Extra Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1310
+#EXTINF:-1,Combate FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1880
+#EXTINF:-1,Combate HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2076
+#EXTINF:-1,Combate
+http://dns.bplay.live:8080/anderson1234/anderson1234/2075
+#EXTINF:-1,Combate Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1291
+#EXTINF:-1,Band Sports FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1812
+#EXTINF:-1,Band Sports HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2060
+#EXTINF:-1,Band Sports
+http://dns.bplay.live:8080/anderson1234/anderson1234/2059
+#EXTINF:-1,Band Sports Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1289
+#EXTINF:-1,TNT Sports HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2300
+#EXTINF:-1,TNT Sports
+http://dns.bplay.live:8080/anderson1234/anderson1234/2301
+#EXTINF:-1,TNT Sports HD 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/39409
+#EXTINF:-1,TNT Sports 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/49664
+#EXTINF:-1,TNT Sports HD 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/39410
+#EXTINF:-1,TNT Sports HD 3
+http://dns.bplay.live:8080/anderson1234/anderson1234/39411
+#EXTINF:-1,TNT Sports HD 4
+http://dns.bplay.live:8080/anderson1234/anderson1234/39412
+#EXTINF:-1,TNT Sports HD 5
+http://dns.bplay.live:8080/anderson1234/anderson1234/39413
+#EXTINF:-1,TNT Sports HD 6
+http://dns.bplay.live:8080/anderson1234/anderson1234/39414
+#EXTINF:-1,TV NSports 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/55686
+#EXTINF:-1,Globoesporte.com
+http://dns.bplay.live:8080/anderson1234/anderson1234/21399
+#EXTINF:-1,ESPN Brasil FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13084
+#EXTINF:-1,ESPN Brasil HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13085
+#EXTINF:-1,ESPN Brasil
+http://dns.bplay.live:8080/anderson1234/anderson1234/13086
+#EXTINF:-1,ESPN FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13087
+#EXTINF:-1,ESPN HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13088
+#EXTINF:-1,ESPN
+http://dns.bplay.live:8080/anderson1234/anderson1234/13089
+#EXTINF:-1,ESPN 2 FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13090
+#EXTINF:-1,ESPN 2 HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13091
+#EXTINF:-1,ESPN 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/13092
+#EXTINF:-1,ESPN Extra FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13093
+#EXTINF:-1,ESPN Extra HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13094
+#EXTINF:-1,Combate FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13095
+#EXTINF:-1,Combate HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13096
+#EXTINF:-1,Combate
+http://dns.bplay.live:8080/anderson1234/anderson1234/13097
+#EXTINF:-1,Band Sports FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13099
+#EXTINF:-1,Band Sports
+http://dns.bplay.live:8080/anderson1234/anderson1234/13101
+#EXTINF:-1,Band Sports HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13100
+#EXTINF:-1,Eleven Sports BR 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/54488
+#EXTINF:-1,Eleven Sports BR 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/54489
+#EXTINF:-1,Eleven Sports BR 3
+http://dns.bplay.live:8080/anderson1234/anderson1234/54490
+#EXTINF:-1,Eleven Sports BR 4
+http://dns.bplay.live:8080/anderson1234/anderson1234/54491
+#EXTINF:-1,Eleven Sports BR 5
+http://dns.bplay.live:8080/anderson1234/anderson1234/54492
+#EXTINF:-1,Eleven Sports BR 6
+http://dns.bplay.live:8080/anderson1234/anderson1234/54493
+#EXTINF:-1,Eleven Sports BR 7
+http://dns.bplay.live:8080/anderson1234/anderson1234/54494
+#EXTINF:-1,Eleven Sports BR 8
+http://dns.bplay.live:8080/anderson1234/anderson1234/54495
+#EXTINF:-1,Eleven Sports BR 10
+http://dns.bplay.live:8080/anderson1234/anderson1234/54497
+#EXTINF:-1,Camp Carioca 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/70065
+#EXTINF:-1,Camp Carioca Alternativo (1)
+http://dns.bplay.live:8080/anderson1234/anderson1234/70080
+#EXTINF:-1,Camp Carioca 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/70066
+#EXTINF:-1,Fla TV HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/27020
+#EXTINF:-1,Cruzeiro Play
+http://dns.bplay.live:8080/anderson1234/anderson1234/70108
+#EXTINF:-1,Furacão Live
+http://dns.bplay.live:8080/anderson1234/anderson1234/52277
+#EXTINF:-1,Copa Nordeste HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/70062
+#EXTINF:-1,Copa Nordeste 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/66586
+#EXTINF:-1,Copa Nordeste Alternativo 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/70109
+#EXTINF:-1,Copa Nordeste 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/66587
+#EXTINF:-1,Copa Nordeste Alternativo 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/70110
+#EXTINF:-1,Copa Nordeste 3
+http://dns.bplay.live:8080/anderson1234/anderson1234/66588
+#EXTINF:-1,Copa Nordeste 4
+http://dns.bplay.live:8080/anderson1234/anderson1234/66589
+#EXTINF:-1,Copa Nordeste 5
+http://dns.bplay.live:8080/anderson1234/anderson1234/66590
+#EXTINF:-1,Copa Nordeste 6
+http://dns.bplay.live:8080/anderson1234/anderson1234/66591
+#EXTINF:-1,Copa Nordeste 7
+http://dns.bplay.live:8080/anderson1234/anderson1234/66592
+#EXTINF:-1,Copa Nordeste 8
+http://dns.bplay.live:8080/anderson1234/anderson1234/66593
+#EXTINF:-1,Camp Paranaense 3
+http://dns.bplay.live:8080/anderson1234/anderson1234/70069
+#EXTINF:-1,Camp Paranaense 4
+http://dns.bplay.live:8080/anderson1234/anderson1234/70070
+#EXTINF:-1,Camp Paranaense 5
+http://dns.bplay.live:8080/anderson1234/anderson1234/70071
+#EXTINF:-1,Camp Paranaense 6
+http://dns.bplay.live:8080/anderson1234/anderson1234/70072
+#EXTINF:-1,Copa Catarinense 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/69028
+#EXTINF:-1,Copa Catarinense 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/69029
+#EXTINF:-1,Camp Cearense 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/70073
+#EXTINF:-1,Camp Cearense 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/70074
+#EXTINF:-1,Camp Cearense 3
+http://dns.bplay.live:8080/anderson1234/anderson1234/70075
+#EXTINF:-1,Camp Sergipano 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/70063
+#EXTINF:-1,Camp Baianão
+http://dns.bplay.live:8080/anderson1234/anderson1234/70078
+#EXTINF:-1,Camp Goiano 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/70571
+#EXTINF:-1,Camp Goiano 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/70572
+#EXTINF:-1,Camp Goiano 3
+http://dns.bplay.live:8080/anderson1234/anderson1234/70573
+#EXTINF:-1,Camp Brasiliense 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/70574
+#EXTINF:-1,Camp Brasiliense 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/70575
+#EXTINF:-1,Camp Brasiliense 3
+http://dns.bplay.live:8080/anderson1234/anderson1234/70576
+#EXTINF:-1,Camp Piauiense 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/70577
+#EXTINF:-1,Camp Piauiense 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/70578
+#EXTINF:-1,Ondemand 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/70855
+#EXTINF:-1,Ondemand 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/70854
+#EXTINF:-1,Ondemand 3
+http://dns.bplay.live:8080/anderson1234/anderson1234/70856
+#EXTINF:-1,Ondemand 4
+http://dns.bplay.live:8080/anderson1234/anderson1234/70857
+#EXTINF:-1,Ondemand 5
+http://dns.bplay.live:8080/anderson1234/anderson1234/70858
+#EXTINF:-1,Premiere Clubes FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1898
+#EXTINF:-1,Premiere Clubes HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2199
+#EXTINF:-1,Premiere Clubes
+http://dns.bplay.live:8080/anderson1234/anderson1234/2198
+#EXTINF:-1,Premiere Clubes Alternativo FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/12820
+#EXTINF:-1,Premiere Clubes Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1277
+#EXTINF:-1,PFC Internacional
+http://dns.bplay.live:8080/anderson1234/anderson1234/1605
+#EXTINF:-1,Premiere 2 FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1892
+#EXTINF:-1,Premiere 2 HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2187
+#EXTINF:-1,Premiere 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/2186
+#EXTINF:-1,Premiere 2 Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1273
+#EXTINF:-1,Premiere 3 FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1893
+#EXTINF:-1,Premiere 3 HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2189
+#EXTINF:-1,Premiere 3
+http://dns.bplay.live:8080/anderson1234/anderson1234/2188
+#EXTINF:-1,Premiere 3 Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1274
+#EXTINF:-1,Premiere 4 FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1894
+#EXTINF:-1,Premiere 4 HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2191
+#EXTINF:-1,Premiere 4 Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1275
+#EXTINF:-1,Premiere 5 FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1895
+#EXTINF:-1,Premiere 5 HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2193
+#EXTINF:-1,Premiere 5
+http://dns.bplay.live:8080/anderson1234/anderson1234/2192
+#EXTINF:-1,Premiere 5 Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1276
+#EXTINF:-1,Premiere 6 FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1896
+#EXTINF:-1,Premiere 6 HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2195
+#EXTINF:-1,Premiere 6
+http://dns.bplay.live:8080/anderson1234/anderson1234/2194
+#EXTINF:-1,Premiere 6 Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/7945
+#EXTINF:-1,Premiere 7 FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1897
+#EXTINF:-1,Premiere 7 HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2197
+#EXTINF:-1,Premiere 7
+http://dns.bplay.live:8080/anderson1234/anderson1234/2196
+#EXTINF:-1,Premiere 7 Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/7946
+#EXTINF:-1,Telecine Premium FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1904
+#EXTINF:-1,Telecine Premium HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2235
+#EXTINF:-1,Telecine Premium
+http://dns.bplay.live:8080/anderson1234/anderson1234/2234
+#EXTINF:-1,Telecine Premium Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1282
+#EXTINF:-1,Telecine Pipoca FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1903
+#EXTINF:-1,Telecine Pipoca HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2233
+#EXTINF:-1,Telecine Pipoca
+http://dns.bplay.live:8080/anderson1234/anderson1234/2232
+#EXTINF:-1,Telecine Pipoca Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1281
+#EXTINF:-1,Telecine Action FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1901
+#EXTINF:-1,Telecine Action HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2227
+#EXTINF:-1,Telecine Action
+http://dns.bplay.live:8080/anderson1234/anderson1234/2226
+#EXTINF:-1,Telecine Action Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1279
+#EXTINF:-1,Telecine Touch FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1905
+#EXTINF:-1,Telecine Touch HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2237
+#EXTINF:-1,Telecine Touch
+http://dns.bplay.live:8080/anderson1234/anderson1234/2236
+#EXTINF:-1,Telecine Touch Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1326
+#EXTINF:-1,Telecine Fun FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1902
+#EXTINF:-1,Telecine Fun HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2231
+#EXTINF:-1,Telecine Fun
+http://dns.bplay.live:8080/anderson1234/anderson1234/2230
+#EXTINF:-1,Telecine Fun Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1280
+#EXTINF:-1,Telecine Cult FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1866
+#EXTINF:-1,Telecine Cult HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2229
+#EXTINF:-1,Telecine Cult
+http://dns.bplay.live:8080/anderson1234/anderson1234/2228
+#EXTINF:-1,Telecine Alternativo Cult HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1347
+#EXTINF:-1,Megapix FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1848
+#EXTINF:-1,Megapix HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2164
+#EXTINF:-1,Megapix
+http://dns.bplay.live:8080/anderson1234/anderson1234/2163
+#EXTINF:-1,MegaPix Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1321
+#EXTINF:-1,Syfy FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1864
+#EXTINF:-1,Syfy HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2215
+#EXTINF:-1,Syfy
+http://dns.bplay.live:8080/anderson1234/anderson1234/2214
+#EXTINF:-1,SyFy Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1267
+#EXTINF:-1,Universal TV FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1872
+#EXTINF:-1,Universal TV HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2258
+#EXTINF:-1,Universal TV
+http://dns.bplay.live:8080/anderson1234/anderson1234/2257
+#EXTINF:-1,Universal TV Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1327
+#EXTINF:-1,Canal Brasil FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1908
+#EXTINF:-1,Canal Brasil HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2067
+#EXTINF:-1,Canal Brasil
+http://dns.bplay.live:8080/anderson1234/anderson1234/2066
+#EXTINF:-1,Canal Brasil Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1331
+#EXTINF:-1,HBO FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1891
+#EXTINF:-1,HBO HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2144
+#EXTINF:-1,HBO
+http://dns.bplay.live:8080/anderson1234/anderson1234/2139
+#EXTINF:-1,HBO Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1271
+#EXTINF:-1,HBO 2 FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1890
+#EXTINF:-1,HBO 2 HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2141
+#EXTINF:-1,HBO 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/2140
+#EXTINF:-1,HBO 2 Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1405
+#EXTINF:-1,HBO Plus FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1840
+#EXTINF:-1,HBO Plus HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2146
+#EXTINF:-1,HBO Plus
+http://dns.bplay.live:8080/anderson1234/anderson1234/2145
+#EXTINF:-1,HBO Plus Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1318
+#EXTINF:-1,HBO Max 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/64037
+#EXTINF:-1,HBO Plus Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/1142
+#EXTINF:-1,HBO Family FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1839
+#EXTINF:-1,HBO Family HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2143
+#EXTINF:-1,HBO Family
+http://dns.bplay.live:8080/anderson1234/anderson1234/2142
+#EXTINF:-1,HBO Family Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1317
+#EXTINF:-1,HBO Signature FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1841
+#EXTINF:-1,HBO Signature HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2148
+#EXTINF:-1,HBO Signature
+http://dns.bplay.live:8080/anderson1234/anderson1234/2147
+#EXTINF:-1,HBO Signature Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1319
+#EXTINF:-1,HBO Signature Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/1143
+#EXTINF:-1,HBO Mundi FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1845
+#EXTINF:-1,HBO Mundi HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2158
+#EXTINF:-1,HBO Mundi
+http://dns.bplay.live:8080/anderson1234/anderson1234/2157
+#EXTINF:-1,HBO Mundi Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1477
+#EXTINF:-1,HBO POP FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1847
+#EXTINF:-1,HBO POP HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2162
+#EXTINF:-1,HBO POP
+http://dns.bplay.live:8080/anderson1234/anderson1234/2161
+#EXTINF:-1,HBO POP Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1478
+#EXTINF:-1,HBO POP Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/1149
+#EXTINF:-1,HBO Xtreme FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1846
+#EXTINF:-1,HBO Xtreme HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2160
+#EXTINF:-1,HBO Xtreme
+http://dns.bplay.live:8080/anderson1234/anderson1234/2159
+#EXTINF:-1,HBO Xtreme Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1265
+#EXTINF:-1,HBO Max 4
+http://dns.bplay.live:8080/anderson1234/anderson1234/64040
+#EXTINF:-1,HBO Max 6
+http://dns.bplay.live:8080/anderson1234/anderson1234/64042
+#EXTINF:-1,A&E H265
+http://dns.bplay.live:8080/anderson1234/anderson1234/6578
+#EXTINF:-1,AMC
+http://dns.bplay.live:8080/anderson1234/anderson1234/2047
+#EXTINF:-1,AMC Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/1176
+#EXTINF:-1,AMC Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1329
+#EXTINF:-1,AMC FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1807
+#EXTINF:-1,AMC H265
+http://dns.bplay.live:8080/anderson1234/anderson1234/6579
+#EXTINF:-1,AMC HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2048
+#EXTINF:-1,Animal Planet H265
+http://dns.bplay.live:8080/anderson1234/anderson1234/6535
+#EXTINF:-1,Animal Planet UHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/40613
+#EXTINF:-1,Animal Planet Ultra HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/62125
+#EXTINF:-1,AXN
+http://dns.bplay.live:8080/anderson1234/anderson1234/2053
+#EXTINF:-1,AXN Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1308
+#EXTINF:-1,AXN FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1810
+#EXTINF:-1,AXN FHD LEG
+http://dns.bplay.live:8080/anderson1234/anderson1234/24778
+#EXTINF:-1,AXN H265
+http://dns.bplay.live:8080/anderson1234/anderson1234/6536
+#EXTINF:-1,AXN HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2054
+#EXTINF:-1,AXN UHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/24972
+#EXTINF:-1,Band News H265
+http://dns.bplay.live:8080/anderson1234/anderson1234/6580
+#EXTINF:-1,Band SP H265
+http://dns.bplay.live:8080/anderson1234/anderson1234/62147
